@@ -5,3 +5,4 @@
 
 2.Feature
 - maximum socket : 1000
+- file caching : jpg, png caching (including extension, full request filepath is hashed)
